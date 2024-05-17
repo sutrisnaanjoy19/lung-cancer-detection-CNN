@@ -1,5 +1,9 @@
 # Lung Cancer Detection with CNN
 
+Publication URL: https://link.springer.com/chapter/10.1007/978-981-19-3089-8_13
+
+Kaggle: https://www.kaggle.com/code/sutrisna98/fork-of-luna-2d-full-training-u-net/ 
+
 This thesis claims to detect nodules and its position from the 3d CT scan images
 
 Objective of this thesis is to maximize the accuracy and reduction of false positive cases (databases used are LUNA-16 and LIDC-IDRI dataset).
