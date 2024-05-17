@@ -1,4 +1,4 @@
-# Lung Cancer Detection with CNN
+# Identification of Lung Cancer Nodules from CT Images Using 2D Convolutional Neural Networks
 
 Publication URL: https://link.springer.com/chapter/10.1007/978-981-19-3089-8_13
 
